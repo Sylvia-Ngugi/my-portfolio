@@ -8,7 +8,7 @@ const Projects = () => {
         <div className="bg-white p-6 rounded-lg shadow">
           <h3 className="text-xl font-semibold">My Portfolio Website</h3>
           <p className="text-gray-600 mt-2">A personal portfolio website built with React and TailwindCSS.</p>
-          <a href="#" className="text-blue-600 hover:underline mt-4 inline-block">View Project</a>
+          <a href="https://github.com/Sylvia-Ngugi/my-portfolio" className="text-blue-600 hover:underline mt-4 inline-block">View Project</a>
         </div>
         <div className="bg-white p-6 rounded-lg shadow">
           <h3 className="text-xl font-semibold">Restaurant Booking Website</h3>
